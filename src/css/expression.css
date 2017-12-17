@@ -1,0 +1,19 @@
+
+.expression-body {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  border: 1px;
+  margin: 20px 0;
+}
+
+.expression-result-hide {
+  /*visibility: hidden;*/
+  display: none;
+}
+
+.expression-result-show {
+  /*visibility: visible;*/
+  display: block;
+}
